@@ -1,0 +1,9 @@
+{
+	"name": "SortedArray",
+	"repo": "Wizcorp/list-SortedArray",
+	"version": "0.1.0",
+	"scripts": [
+		"index.js"
+	],
+	"license": "MIT"
+}
